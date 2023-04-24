@@ -18,6 +18,7 @@ using namespace std;
  height
  age
  goal
+ test
   */
 user a;
 void bmi (string username){
